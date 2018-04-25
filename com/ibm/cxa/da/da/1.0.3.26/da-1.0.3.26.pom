@@ -3,7 +3,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ibm.cxa</groupId>
-  <artifactId>tealeaf</artifactId>
-  <version>10.2.1.208</version>
+  <artifactId>da</artifactId>
+  <version>1.0.3.26</version>
   <packaging>aar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>TempTestBuild</groupId>
+      <artifactId>eocore</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
 </project>
