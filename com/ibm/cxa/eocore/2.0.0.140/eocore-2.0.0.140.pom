@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ibm.cxa</groupId>
-  <artifactId>tealeaf</artifactId>
-  <version>10.2.1.240</version>
+  <artifactId>eocore</artifactId>
+  <version>2.0.0.140</version>
   <packaging>aar</packaging>
 </project>
