@@ -3,10 +3,10 @@
   <groupId>com.ibm.cxa</groupId>
   <artifactId>da</artifactId>
   <versioning>
-    <release>1.1.8</release>
+    <release>1.1.22</release>
     <versions>
-      <version>1.1.8</version>
+      <version>1.1.22</version>
     </versions>
-    <lastUpdated>20191114034615</lastUpdated>
+    <lastUpdated>20191116001006</lastUpdated>
   </versioning>
 </metadata>
