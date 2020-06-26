@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ea</groupId>
   <artifactId>da</artifactId>
-  <version>1.1.24</version>
+  <version>1.1.25</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
