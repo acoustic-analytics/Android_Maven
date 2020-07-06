@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ea</groupId>
   <artifactId>tealeaf</artifactId>
-  <version>10.3.63</version>
+  <version>10.3.64</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
