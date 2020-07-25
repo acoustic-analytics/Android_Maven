@@ -6,36 +6,4 @@
   <artifactId>tealeafmd5</artifactId>
   <version>1.0.7</version>
   <packaging>aar</packaging>
-  <dependencies>
-    <dependency>
-      <groupId>androidx.appcompat</groupId>
-      <artifactId>appcompat</artifactId>
-      <version>1.1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.android.gms</groupId>
-      <artifactId>play-services-ads</artifactId>
-      <version>16.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.github.bumptech.glide</groupId>
-      <artifactId>glide</artifactId>
-      <version>3.6.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.test.espresso</groupId>
-      <artifactId>espresso-idling-resource</artifactId>
-      <version>3.2.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>multidex</artifactId>
-      <version>2.0.1</version>
-      <scope>compile</scope>
-    </dependency>
-  </dependencies>
 </project>
