@@ -12,6 +12,7 @@
   "TurnOffCorrectOrientationUpdates": false,
   "DefaultOrientation": 0,
   "ApplicationInBackgroundEnabled": true,
+  "DisableCookieManager": false,
   "LibraryVersion": "2.0.77",
   "MessageVersion": "6.0.0.0",
   "MNCMCC": {
