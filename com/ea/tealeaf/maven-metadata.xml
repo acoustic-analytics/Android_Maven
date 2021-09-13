@@ -3,7 +3,7 @@
   <groupId>com.ea</groupId>
   <artifactId>tealeaf</artifactId>
   <versioning>
-    <release>10.3.116</release>
+    <release>10.3.117</release>
     <versions>
       <version>10.3.65</version>
       <version>10.3.66</version>
@@ -57,7 +57,8 @@
       <version>10.3.114</version>
       <version>10.3.115</version>
       <version>10.3.116</version>
+      <version>10.3.117</version>
     </versions>
-    <lastUpdated>20210826013550</lastUpdated>
+    <lastUpdated>20210913220508</lastUpdated>
   </versioning>
 </metadata>
