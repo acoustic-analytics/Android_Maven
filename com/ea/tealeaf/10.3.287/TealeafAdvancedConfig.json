@@ -9,7 +9,7 @@
     "DefaultTextViewPaddingLeft": 5,
     "DefaultTextViewPaddingRight": 5,
     "EditTextEnabled": true,
-    "EnableActivityLifeCycleListener": false,
+    "EnableActivityLifeCycleListener": true,
     "EnableGestureSwipeLogScreen": true,
     "EnableScreenshotCache": false,
     "ExcludeTextViewStyleForOS": "",
