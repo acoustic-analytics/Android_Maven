@@ -3,8 +3,8 @@
   <groupId>io.github.acoustic-analytics</groupId>
   <artifactId>tealeaf</artifactId>
   <versioning>
-    <latest>10.3.310</latest>
-    <release>10.3.310</release>
+    <latest>10.3.311</latest>
+    <release>10.3.311</release>
     <versions>
       <version>10.3.302</version>
       <version>10.3.303</version>
@@ -15,7 +15,8 @@
       <version>10.3.308</version>
       <version>10.3.309</version>
       <version>10.3.310</version>
+      <version>10.3.311</version>
     </versions>
-    <lastUpdated>20230125082013</lastUpdated>
+    <lastUpdated>20230126090340</lastUpdated>
   </versioning>
 </metadata>
